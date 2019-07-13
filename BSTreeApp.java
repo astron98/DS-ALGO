@@ -1,7 +1,7 @@
 /*
   author:Devendra Patra
   resources used:1.www.geeksforgeeks.org
-                 2.Tushar Roy(His youTube channel link:https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+                 2.Tushar Roy's Youtube Channel
                  
   functions used for BST:
             1.insert the node
