@@ -2,7 +2,7 @@
  ******Data structures and Algorithms for placements.***
   
 1.Data Structures:
-  *Stack
+  *Stack<br>
   *queues
   *linked list
   *trees
