@@ -1,7 +1,7 @@
 # DS-ALGO
- ***Data structures and Algorithms.***
+ <h1>***Data structures and Algorithms.***</h1>
   
-<b>1.Data Structures:</b>
+<h3>1.Data Structures:</h3>
             <ol>
               <li>Stack</li>
               <li>Queues</li>
@@ -9,7 +9,7 @@
               <li>trees</li>
               <li>graphs</li>
             </ol>    
-<b>2.Algorithms:</b>
+<h3>2.Algorithms:</h3>
             <ol>
               <li>Analysis and complexity of algorithms</li>
               <li>Sortings and searching</li>
@@ -21,6 +21,6 @@
               <li>Bit manipulation</li>
             </ol>  
   
-  ***Note:This above list is a prerequisite for placements but,for a senior-developer post,this list may vary. 
+  <b size>Note:This above list is a prerequisite for placements but,for a senior-developer's post,this list may vary.</b> 
     
   
